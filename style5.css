@@ -1,0 +1,24 @@
+p{
+	text-transform: uppercase;
+}
+/*content-width and height*/
+p{
+	width: 25%;
+}
+/*Border*/
+p{
+	border: 2px solid blue;
+	/*border-top: 2px solid blue;*/
+}
+/*padding*/
+p{
+	padding: 40px;
+	/*padding-left: 100px;*/
+}
+
+/*margin*/
+p{
+	/*margin: 20px;*/
+	/*margin:0 auto 0 auto;*/
+    margin: 20px 40px 50px 60px; 
+}
